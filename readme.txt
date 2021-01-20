@@ -1,4 +1,5 @@
 //version one
+//this is issue-102
 #include <iostream>
 using namespace std;
 int main()
